@@ -28,7 +28,7 @@
    
  - 🔭 SpaceX FanBoi, die for space😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🛸 I love basketball🏀，swimming🏊🏻，photography📷，fitness💪🏻，cycling🚴
  
  - I do backend developer and a bit of everything :heart:
  
