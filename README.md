@@ -6,7 +6,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  HEADER WAVE  ░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,45:7209b7,100:00f0ff&height=210&section=header&text=Hi%20there,%20I'm%20Qiyue%20%F0%9F%91%8B&fontColor=ffffff&fontSize=44&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20HangZhou,%20China%20%C2%B7%20%E6%9D%AD%E5%B7%9E&descSize=18&descAlignY=56" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,45:7209b7,100:00f0ff&height=210&section=header&text=Hi%20there,%20I'm%20Qiyue%20%F0%9F%91%8B&fontColor=ffffff&fontSize=44&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20GuangZhou,%20China%20%C2%B7%20%E6%9D%AD%E5%B7%9E&descSize=18&descAlignY=56" alt="header" />
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  TYPING BANNER  ░░░░░░░░░░░░░░░░░░░░░ -->
@@ -31,9 +31,9 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me · 关于我
 
 ```yaml
-name:        Qiyue Jie (解启越)
+name:        Qiyue Jie (揭其樾)
 role:        Backend Developer  /  后端开发工程师
-location:    HangZhou, China  ·  杭州
+location:    GuangZho, China  ·  广州
 focus:       Operating Systems · Distributed System Design
 building:    Raft · Key/Value store engine · Relational database
 learning:    Java  &  Go  &  Rust
