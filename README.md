@@ -6,7 +6,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  HEADER WAVE  ░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,45:7209b7,100:00f0ff&height=210&section=header&text=Hi%20there,%20I'm%20Qiyue%20%F0%9F%91%8B&fontColor=ffffff&fontSize=44&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20GuangZhou,%20China%20%C2%B7%20%E6%9D%AD%E5%B7%9E&descSize=18&descAlignY=56" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,45:7209b7,100:00f0ff&height=210&section=header&text=Hi%20there,%20I'm%20Qiyue%20%F0%9F%91%8B&fontColor=ffffff&fontSize=44&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20GuangZhou,%20China%E5%B9%BF%E5%B7%9E&descSize=18&descAlignY=56" alt="header" />
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  TYPING BANNER  ░░░░░░░░░░░░░░░░░░░░░ -->
